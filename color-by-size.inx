@@ -5,7 +5,7 @@
 
   <param name="min_size" type="float" gui-text="Minimum Area:">0</param>
   <param name="max_size" type="float" gui-text="Maximum Area:">10</param>
-  <param name="fill_color" type="color" gui-text="Fill Color:">4278190335</param>
+  <param name="fill_color" type="color" appearance="colorbutton" gui-text="Fill Color:">4278190335</param>
   <param name="from_selected" type="bool" gui-text="From selected?">false</param>
 
 
